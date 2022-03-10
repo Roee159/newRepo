@@ -13,8 +13,8 @@ public class SharedData
 	
 	/**
 	 * @param array
-	 * @param b
-	 * Class Contractor
+	 * @param b             User Input: number.
+	 * Class Contractor with 2 parameters:  @param array , @param b.
 	 */
 	public SharedData(ArrayList<Integer> array, int b) {
 		
@@ -32,6 +32,7 @@ public class SharedData
 
 	/**
 	 * @param winArray
+	 * Set this winArray to @param array.
 	 */
 	public void setWinArray(boolean [] winArray) 
 	{
@@ -47,7 +48,7 @@ public class SharedData
 	}
 
 	/**
-	 * @return b.
+	 * @return b        user input number.
 	 */
 	public int getB() 
 	{
