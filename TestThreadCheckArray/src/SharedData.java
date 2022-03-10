@@ -1,6 +1,6 @@
 public class SharedData 
-{//hgfdd
-	private int [] array;
+{
+	ArrayList Integer> array;
 	private boolean [] winArray;
 	private boolean flag;
 	private final int b;
