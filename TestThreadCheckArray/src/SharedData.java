@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-
+// kol hkavod li.
 public class SharedData 
 {
 	ArrayList <Integer> array;
